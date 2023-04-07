@@ -1,0 +1,11 @@
+﻿  tictactoe_dp.cpp
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\problem\tictactoe.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\interface\game_state.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\interface\state.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\problem\tictactoe.hpp(59,53): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\problem\tictactoe.hpp(60,54): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\problem\tictactoe.hpp(61,46): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\problem\tictactoe.hpp(62,46): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\tictactoe_dp.cpp(24,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\tictactoe_dp.cpp(55,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Tictactoe.vcxproj -> F:\程序\AI基础\3.第四周：井字棋学习策略\Tictactoe\x64\Debug\Tictactoe.exe

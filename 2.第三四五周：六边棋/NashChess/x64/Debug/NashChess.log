@@ -1,0 +1,8 @@
+﻿  new.cpp
+F:\程序\AI基础\2.第三四五周：六边棋\NashChess\new.cpp(663,58): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+F:\程序\AI基础\2.第三四五周：六边棋\NashChess\new.cpp(570): warning C4715: “special_mtcs”: 不是所有的控件路径都返回值
+  NashChess.vcxproj -> F:\程序\AI基础\2.第三四五周：六边棋\NashChess\x64\Debug\NashChess.exe

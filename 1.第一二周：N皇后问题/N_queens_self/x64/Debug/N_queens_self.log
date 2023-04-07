@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\程序\AI基础\第一二周：N皇后问题\N_queens_self\源.cpp(106,10): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  N_queens_self.vcxproj -> F:\程序\AI基础\第一二周：N皇后问题\N_queens_self\x64\Debug\N_queens_self.exe
